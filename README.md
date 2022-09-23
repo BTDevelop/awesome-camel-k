@@ -33,3 +33,14 @@ A curated list of Camel K related tools, frameworks and articles.
 - [Camel Kameleon](https://github.com/apache/camel-kameleon) - Camel Kameleon is a project to scaffold new Camel project.
 - [Camel Karaf Examples](https://github.com/apache/camel-karaf-examples) - Apache Camel Karaf Examples
 - [Camel Kamelets Examples](https://github.com/apache/camel-kamelets-examples) - Apache Camel Kamelets Examples
+
+
+### Videos
+
+- [Event-driven serverless applications with Camel K | DevNation Tech Talk](https://www.youtube.com/watch?v=hlUzLC71nAM)
+- [Serverless Integration on Kubernetes with Apache Camel K - Nicola Ferraro, Red Hat](https://www.youtube.com/watch?v=beJOCndVfaU)
+- [Camel K in a Nutshell](https://www.youtube.com/watch?v=LaBvBonUC6g)
+- [Getting Started with Camel K - Basic](https://www.youtube.com/watch?v=dDEpdgg3gK4)
+- [Camel K: Build and deploy on Kubernetes](https://www.youtube.com/watch?v=RX4jygcCauc)
+- [Kubernetes enterprise integration patterns with Camel-K | DevNation Tech Talk](https://www.youtube.com/watch?v=51x9BewGCYA)
+- [Writing serverless Functions with Camel K and Knative](https://www.youtube.com/watch?v=UUF0frNdcrg)

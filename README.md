@@ -44,3 +44,14 @@ A curated list of Camel K related tools, frameworks and articles.
 - [Camel K: Build and deploy on Kubernetes](https://www.youtube.com/watch?v=RX4jygcCauc)
 - [Kubernetes enterprise integration patterns with Camel-K | DevNation Tech Talk](https://www.youtube.com/watch?v=51x9BewGCYA)
 - [Writing serverless Functions with Camel K and Knative](https://www.youtube.com/watch?v=UUF0frNdcrg)
+
+
+### Articles
+
+- [Camel K — “Containerless” Deployments on Kubernetes](https://itnext.io/camel-k-containerless-deployments-349da12bfa9d)
+- [Camel K Brings Apache Camel to Kubernetes for Event-Driven Architectures
+](https://thenewstack.io/camel-k-brings-apache-camel-to-kubernetes-for-event-driven-architectures/)
+- [Apache Camel K and Quarkus on Kubernetes](https://piotrminkowski.com/2020/12/08/apache-camel-k-and-quarkus-on-kubernetes/)
+- [Camel K Cloud-Native EDA Data Collector to Help Cross-Team Collaboration](https://edasummit.com/videos/camel-k-cloud-native-eda-data-collector-to-help-cross-team-collaboration/)
+- [Authenticating Camel K to Kafka using SASL](https://dev.to/kuthumipepple/authenticating-camel-k-to-kafka-using-sasl-1723)
+- [Tutorial: Deploy Camel-K on Openshift 4 using Tekton](https://erfin-feluzy.medium.com/tutorial-deploy-camel-k-on-openshift-4-using-tekton-f9210e047f86)

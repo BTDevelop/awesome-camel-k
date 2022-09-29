@@ -68,3 +68,7 @@ A curated list of Camel K related tools, frameworks and articles.
 - [Instant Apache Camel Messaging System](https://www.packtpub.com/product/instant-apache-camel-messaging-system/9781782165347)
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
 
+### Slides
+
+- [Apache Camel K - Copenhagen v2](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
+- [Apache Camel K - Copenhagen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen)

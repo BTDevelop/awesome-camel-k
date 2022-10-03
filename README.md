@@ -72,3 +72,17 @@ A curated list of Camel K related tools, frameworks and articles.
 
 - [Apache Camel K - Copenhagen v2](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen-v2)
 - [Apache Camel K - Copenhagen](https://www.slideshare.net/davsclaus/apache-camel-k-copenhagen)
+
+### Labs
+
+- [A look insight Camel K - ConSol Labs](https://labs.consol.de/development/2022/02/24/camel-k-insights.html)
+
+
+### Community Repositories
+
+- https://github.com/openshift-integration/camel-k-example-basic
+- https://github.com/openshift-integration/camel-k-example-api
+- https://github.com/openshift-integration/camel-k-example-kafka
+- https://github.com/openshift-knative/knative-camel-operator
+- https://github.com/openshift-integration/camel-k-example-saas
+- https://github.com/openshift-integration/camel-k-example-jms

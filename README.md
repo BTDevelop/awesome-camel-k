@@ -86,3 +86,11 @@ A curated list of Camel K related tools, frameworks and articles.
 - https://github.com/openshift-knative/knative-camel-operator
 - https://github.com/openshift-integration/camel-k-example-saas
 - https://github.com/openshift-integration/camel-k-example-jms
+
+### Community
+
+- [LinkedIn](https://www.linkedin.com/groups/2447439)
+- [Twitter](https://twitter.com/projectcalico)
+
+### Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
